@@ -1,0 +1,51 @@
+
+body {
+  font-family: Verdana, sans-serif;
+}
+
+
+th {
+  padding: 30px;
+  font-size: 25px;
+  text-align: center;
+}
+
+
+.hores {
+  font-size: 20px;
+  padding: 10px;
+  width: 180px;
+  text-align: center;
+}
+
+
+#descans {
+  font-size: 20px;
+  padding: 15px;
+  text-align: center;
+}
+
+
+.modul1 {
+  background-color: #f9c2ff;
+}
+
+.modul2 {
+  background-color: #c2f0ff;
+}
+
+.modul3 {
+  background-color: #c2ffc2;
+}
+
+
+table {
+  width: auto;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+td {
+  border: 1px solid #000;
+  padding: 10px;
+}
